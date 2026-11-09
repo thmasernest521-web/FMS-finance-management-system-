@@ -1,2 +1,4 @@
-# FMS-finance-management-system-
-Help people to manage and control their finance to reach in financial development 
+      - name: Setup Android SDK
+        uses: android-actions/setup-android@v3
+        with:
+          packages: 'platform-tools'
